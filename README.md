@@ -51,7 +51,7 @@ https://chromewebstore.google.com/detail/integrated-search-for-you/pefodabjgdohm
 
 ---
 
-## 🌐 Contact
+## Contact
 
 **Email:** caspianlack@gmail.com  
 **LinkedIn:** https://linkedin.com/in/caspian-lack  
