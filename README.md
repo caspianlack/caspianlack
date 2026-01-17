@@ -38,14 +38,19 @@ Python · FFmpeg · Redis · Next.js · Chrome Extension Development · C++
 
 ### RSVP Speed Reader
 High-performance RSVP (Rapid Serial Visual Presentation) reading tool designed for fast, distraction-free consumption of large text volumes.
+
 https://rsvp-speed-reader.vercel.app/
+
 
 ### FluentAI - Chrome Built-in AI Hackathon 2025  
 Hybrid AI language-learning extension providing contextual translation feedback & relevant vocab extraction.  
+
 https://devpost.com/software/fluenttube  
+
 
 ### Integrated Search for YouTube Transcript  
 Chrome extension enabling fast transcript search within YouTube pages for improved content navigation with 41 Active Users.  
+
 https://chromewebstore.google.com/detail/integrated-search-for-you/pefodabjgdohmfnaiifenaboaijhfkdd  
 
 
