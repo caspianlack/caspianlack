@@ -1,11 +1,11 @@
-# 👋 Hi, I’m Caspian
+# Hi, I’m Caspian
 
 Software Engineer focused on building practical, user-focused products.<br>
 Experience across React/Node/Supabase/AWS and AI-assisted tooling.
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 **Core:**  
 TypeScript · JavaScript · React · Node.js · Supabase · PostgreSQL · AWS · Docker  
@@ -28,34 +28,31 @@ Python · FFmpeg · Redis · Next.js · Chrome Extension Development · C++
 
 ---
 
-## 🌱 Currently
+## Currently
 - Learning SDL2
 - Migrating projects to Supabase + Next.js
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🤖 FluentAI — Chrome Built-in AI Hackathon 2025  
+### RSVP Speed Reader
+High-performance RSVP (Rapid Serial Visual Presentation) reading tool designed for fast, distraction-free consumption of large text volumes.
+https://rsvp-speed-reader.vercel.app/
+
+### FluentAI - Chrome Built-in AI Hackathon 2025  
 Hybrid AI language-learning extension providing contextual translation feedback & relevant vocab extraction.  
-🔗 https://devpost.com/software/fluenttube  
+https://devpost.com/software/fluenttube  
 
----
+### Integrated Search for YouTube Transcript  
+Chrome extension enabling fast transcript search within YouTube pages for improved content navigation with 41 Active Users.  
+https://chromewebstore.google.com/detail/integrated-search-for-you/pefodabjgdohmfnaiifenaboaijhfkdd  
 
-### 🔍 Integrated Search for YouTube Transcript  
-Chrome extension enabling fast transcript search within YouTube pages for improved content navigation.  
-🔗 https://chromewebstore.google.com/detail/integrated-search-for-you/pefodabjgdohmfnaiifenaboaijhfkdd  
-
----
-
-### 💪 PixelRep / Freeweight — Full-stack Gym App  
-Social gym-tracking app. Features templated workouts, session logging. Working on migradtion and adding gamification systems like guilds + quests.  
-🔗 https://caspianlack.com/?i=1#freeweight-app  
 
 ---
 
 ## 🌐 Contact
 
-📧 **Email:** caspianlack@gmail.com  
-🔗 **LinkedIn:** https://linkedin.com/in/caspian-lack  
-🌐 **Portfolio:** https://caspianlack.com  
+**Email:** caspianlack@gmail.com  
+**LinkedIn:** https://linkedin.com/in/caspian-lack  
+**Portfolio:** https://caspianlack.com  
